@@ -1,0 +1,12 @@
+C:\Users\student\Desktop\WpfApp1\obj\Release\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\WpfApp1\obj\Release\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\WpfApp1\obj\Release\MainWindow.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Release\RhombActive.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Release\App.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\student\Desktop\WpfApp1\obj\Release\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\WpfApp1\obj\Release\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\WpfApp1\obj\Release\MainWindow.baml
+C:\Users\student\Desktop\WpfApp1\obj\Release\RhombActive.baml
+C:\Users\student\Desktop\WpfApp1\obj\Release\WpfApp1.g.resources
+C:\Users\student\Desktop\WpfApp1\obj\Release\WpfApp1.pdb
