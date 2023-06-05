@@ -1,0 +1,11 @@
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe.config
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\bin\Debug\pictureviewer.exe
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\bin\Debug\pictureviewer.pdb
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.AssemblyReference.cache
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Form1.resources
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.Properties.Resources.resources
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.GenerateResource.cache
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.csproj.CoreCompileInputs.cache
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.exe
+C:\Users\Сафа\source\repos\pictureviewer\pictureviewer\obj\Debug\pictureviewer.pdb
